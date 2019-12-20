@@ -1,4 +1,4 @@
 # Cours Git
 
 Hello
-Il y a beaucoup d'absents
+Presque tout le monde est la aujourd'hui
