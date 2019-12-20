@@ -1,4 +1,3 @@
 # Cours Git
 
-Hello
-Il y a beaucoup d'absents
+Aujourd'hui, le prof était en retard
